@@ -1,12 +1,12 @@
 main:
-  - title: "Blog"
-    url: /blog/
-  - title: "Guides"
-    url: /guides/
-  - title: "New Light"
-    url: /new-light/
-#  - title: "Tags"
-#    url: /tags/
+#  - title: "Blog"
+#    url: /blog/
+#  - title: "Guides"
+#    url: /guides/
+#  - title: "New Light"
+#    url: /new-light/
+  - title: "ref/"
+    url: /ref/
 #  - title: "Pages"
 #    url: /page-archive/
 #  - title: "Collections"
@@ -47,3 +47,9 @@ sidebar-guide:
           url: /
         - title: "Archiv"
           url: /
+
+sidebar-ref:
+  - title: "Karten"
+  children:
+    - title: Grube der Ketzerei
+      url: /karten/grube-der-ketzerei/
