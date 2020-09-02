@@ -50,6 +50,6 @@ sidebar-guide:
 
 sidebar-ref:
   - title: "Karten"
-  children:
-    - title: "Grube der Ketzerei"
-      url: /karten/grube-der-ketzerei/
+    children:
+      - title: "Grube der Ketzerei"
+        url: /karten/grube-der-ketzerei/
