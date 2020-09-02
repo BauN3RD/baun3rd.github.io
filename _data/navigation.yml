@@ -29,26 +29,26 @@ sidebar-new-light:
 sidebar-guide:
   - title: "Last Minute"
     url: /guides/last-minute/
-  - title: "Raids"
-    children:
-      - title: "Letzter Wunsch"
-        url: /
-      - title: "Garten der Erlösung"
-        url: /
-  - title: "Dungeons"
-    children:
-        - title: "Der zerbrochene Thron"
-          url: /
-        - title: "Grube der Ketzerei"
-          url: /
-        - title: "Die Prophezeiung"
-          url: /
-  - title: "Titel und Triumphe"
-    children:
-        - title: "Fluchbrecher"
-          url: /
-        - title: "Archiv"
-          url: /
+#  - title: "Raids"
+#    children:
+#      - title: "Letzter Wunsch"
+#        url: /
+#      - title: "Garten der Erlösung"
+#        url: /
+#  - title: "Dungeons"
+#    children:
+#        - title: "Der zerbrochene Thron"
+#          url: /
+#        - title: "Grube der Ketzerei"
+#          url: /
+#        - title: "Die Prophezeiung"
+#          url: /
+#  - title: "Titel und Triumphe"
+#    children:
+#        - title: "Fluchbrecher"
+#          url: /
+#        - title: "Archiv"
+#          url: /
 
 sidebar-ref:
   - title: "Karten"
