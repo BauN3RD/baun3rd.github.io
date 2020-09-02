@@ -1,8 +1,8 @@
 main:
 #  - title: "Blog"
 #    url: /blog/
-#  - title: "Guides"
-#    url: /guides/
+  - title: "guides/"
+    url: /guides/
 #  - title: "New Light"
 #    url: /new-light/
   - title: "ref/"
@@ -27,6 +27,8 @@ sidebar-new-light:
         url: /
 
 sidebar-guide:
+  - title: "Last Minute"
+    url: /guides/last-minute/
   - title: "Raids"
     children:
       - title: "Letzter Wunsch"
