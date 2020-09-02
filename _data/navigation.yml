@@ -1,0 +1,49 @@
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Guides"
+    url: /guides/
+  - title: "New Light"
+    url: /new-light/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "Pages"
+#    url: /page-archive/
+#  - title: "Collections"
+#    url: /collection-archive/
+#  - title: "External Link"
+#    url: https://google.com
+
+sidebar-new-light:
+  - title: "Dein Hüter"
+    children:
+      - title: "Waffen"
+        url: /
+      - title: "Rüstung"
+        url: /
+      - title: "Exotische"
+        url: /
+      - title: "Cosmetics"
+        url: /
+
+sidebar-guide:
+  - title: "Raids"
+    children:
+      - title: "Letzter Wunsch"
+        url: /
+      - title: "Garten der Erlösung"
+        url: /
+  - title: "Dungeons"
+    children:
+        - title: "Der zerbrochene Thron"
+          url: /
+        - title: "Grube der Ketzerei"
+          url: /
+        - title: "Die Prophezeiung"
+          url: /
+  - title: "Titel und Triumphe"
+    children:
+        - title: "Fluchbrecher"
+          url: /
+        - title: "Archiv"
+          url: /
