@@ -1,8 +1,8 @@
 main:
 #  - title: "Blog"
 #    url: /blog/
-  - title: "Guides"
-    url: /guides/
+#  - title: "Guides"
+#    url: /guides/
 #  - title: "New Light"
 #    url: /new-light/
   - title: "ref/"
