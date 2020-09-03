@@ -73,10 +73,9 @@ Intellekt | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
 Disziplin | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
 Stärke | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
 Belastbarkeit | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
-Titan | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
-Jäger | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
-Warlock | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
+Titan (B) | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
+Jäger (M) | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
+Warlock (E) | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
 
-Die Ladezeiten der Klassenfähigkeit hängen vom entsprechenden Rüstungsstat ab.
-Titan: Belastbarkeit, Jäger: Mobilität, Warlock: Erholung
+**(B)**elastbarkeit, **(M)**obilität, **(E)**rholung
 {: .notice}
