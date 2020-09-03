@@ -55,6 +55,8 @@ sidebar-guide:
 sidebar-ref:
   - title: "Dungeons"
     children:
+      - title: "Prophezeiung Dungeon"
+        url: /ref/prophezeiung/
       - title: "Grube der Ketzerei"
         url: /ref/grube-der-ketzerei/
       - title: "Zerbrochener Thron"
