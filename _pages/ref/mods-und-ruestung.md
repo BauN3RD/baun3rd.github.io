@@ -20,6 +20,7 @@ sidebar:
 
 Rüstungstats nach Relevanz geordnet
 
+Test
 Stat 1 | Stat 2 | Stat 3 | Stat 4 | Stat 5
 
 
