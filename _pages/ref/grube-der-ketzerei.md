@@ -1,5 +1,5 @@
 ---
-title: "Grube der Ketzerei Karten"
+title: "Grube der Ketzerei Referenz"
 permalink: /ref/grube-der-ketzerei/
 layout: single
 sidebar:
