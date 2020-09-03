@@ -11,7 +11,7 @@ sidebar:
 
 **Tunnels of Despair**
 
-![Karte der Grube der Ketzerei - Encounter Tunnels of Despair](/media/poh-despair.png)
+![Karte der Grube der Ketzerei - Encounter Tunnels of Despair](/media/poh-despair.jpg)
 
 Quelle: [u/Bloody-Mando](https://www.reddit.com/r/DestinyTheGame/comments/dpml1e/tunnels_of_despair_map_pit_of_heresy/?utm_medium=android_app&utm_source=share)
 {: .notice}
