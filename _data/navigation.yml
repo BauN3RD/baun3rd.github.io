@@ -61,3 +61,9 @@ sidebar-ref:
         url: /ref/grube-der-ketzerei/
       - title: "Zerbrochener Thron"
         url: /ref/zerbrochener-thron/
+  - title: "Raids"
+    children:
+      - title: "Garten der Erlösung"
+        url: /ref/garten-der-erloesung/
+      - title: "Letzter Wunsch"
+        url: /ref/letzter-wunsch/
