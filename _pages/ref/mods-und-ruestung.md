@@ -16,6 +16,14 @@ sidebar:
 
 ## Stats und Synergie
 
+### Wirkung
+
+Rüstungstats nach Relevanz geordnet
+
+Stat 1 | Stat 2 | Stat 3 | Stat 4 | Stat 5
+
+
+
 ## Survivability
 
 ## Season 11
