@@ -54,7 +54,6 @@ sidebar-guide:
 
 sidebar-ref:
   - title: "Wegweiser"
-    url: /ref/
     children:
       - title: "Waffen"
         url: /ref/waffen/
