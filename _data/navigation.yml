@@ -53,7 +53,7 @@ sidebar-guide:
 #          url: /
 
 sidebar-ref:
-  - title: "Karten"
+  - title: "Dungeons"
     children:
       - title: "Grube der Ketzerei"
-        url: /karten/grube-der-ketzerei/
+        url: /ref/grube-der-ketzerei/
