@@ -4,8 +4,8 @@ permalink: /ref/mods-und-ruestung/
 layout: single
 sidebar:
   nav: sidebar-ref
- toc: true
- toc_sticky: true
+toc: true
+toc_sticky: true
 ---
 
 ## Stats und Synergie
