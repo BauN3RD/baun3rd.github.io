@@ -14,6 +14,7 @@ Quelle: [u/destmovich](https://www.reddit.com/r/destiny2/comments/9k6088/shatter
 {: .notice}
 
 ## Loot
+
 **Kein Loot-Loop:** Encounter droppen nur einmal wöchentlich pro Charakter Loot.
 {: .notice--danger}
 
