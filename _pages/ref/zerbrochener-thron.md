@@ -15,6 +15,9 @@ Quelle: [u/destmovich](https://www.reddit.com/r/destiny2/comments/9k6088/shatter
 
 ## Loot
 
+**Kein Loot-Loop:** Encounter droppen nur einmal wöchentlich pro Charakter Loot.
+{: .notice--danger}
+
 **Wöchentlich**
 - Legendärer Träumende-Stadt-Loot
 - Traumende Stadt Schiff

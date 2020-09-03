@@ -32,12 +32,13 @@ Die tragbaren Relikte können mit der Tastenkombination **Aktivieren + Waffe wec
 
 ## Loot
 
+**Kein Loot-Loop:** Encounter droppen nur einmal wöchentlich pro Charakter Loot.
+{: .notice--danger}
+
 **Wöchentlich**
 - [Spitzenloot +2] Garantiert: Traumfluch-Rüstung auf Meisterwerk (6 Kerne, 6 Prismen)
 - [Mächtig] Dropchance:Impulsgewehr Premoirgendwas
 - [Mächtig] Legendäre Mond-Drops
-
-*Kein Loot-Loop.*
 
 **Einmalig**
 - Toter Geist (Tunnels of Despair)
