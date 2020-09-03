@@ -4,6 +4,8 @@ permalink: /ref/mods-und-ruestung/
 layout: single
 sidebar:
   nav: sidebar-ref
+ toc: true
+ toc_sticky: true
 ---
 
 ## Beste exotische Rüstung
@@ -39,6 +41,25 @@ Delay und Geschwindigkeit der Gesundheitsregeneration
 ##### Jäger Klassenfähigkeit
 
 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00
+
+#### Intellekt
+Delay und Geschwindigkeit der Gesundheitsregeneration
+
+0 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100
+0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
+
+#### Disziplin
+Delay und Geschwindigkeit der Gesundheitsregeneration
+
+0 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100
+0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
+
+#### Stärke
+Delay und Geschwindigkeit der Gesundheitsregeneration
+
+0 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100
+0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
+
 
 #### Belastbarkeit
 Delay und Geschwindigkeit der Gesundheitsregeneration
