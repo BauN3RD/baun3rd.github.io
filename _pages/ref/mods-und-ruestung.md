@@ -20,7 +20,8 @@ sidebar:
 
 Rüstungstats nach Relevanz geordnet
 
-Erholung - Delay und Geschwindigkeit der Gesundheitsregeneration
+#### Erholung
+Delay und Geschwindigkeit der Gesundheitsregeneration
 
 0 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100
 Stat 1 | Stat 2 | Stat 3 | Stat 4 | Stat 5
