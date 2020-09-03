@@ -62,3 +62,9 @@ Delay und Geschwindigkeit der Gesundheitsregeneration
 ##### Titan Klassenfähigkeit
 
 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00
+
+## Test
+
+Stat | 0 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100
+Erholung | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
+Mobilität | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
