@@ -1,6 +1,6 @@
 ---
 title: "Grube der Ketzerei Karten"
-permalink: /karten/grube-der-ketzerei/
+permalink: /ref/grube-der-ketzerei/
 layout: single
 sidebar:
   nav: sidebar-ref
