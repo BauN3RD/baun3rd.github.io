@@ -28,14 +28,17 @@ Quelle: [u/primo_pastafarian](https://www.reddit.com/r/DestinyTheGame/comments/d
 
 ### Relikte duplizieren
 
-Die Relikte (tragbare Kugeln) können mit der Tastenkombination **Aktivieren + Waffe wechseln** dupliziert werden. *Duplizierte Kugel eine mind. Sekunde liegen lassen, da sie sonst sofort despawnt.*
+Die tragbaren Relikte können mit der Tastenkombination **Aktivieren + Waffe wechseln** dupliziert werden. *Duplizierte Kugel mind. eine Sekunde liegen lassen, da sie sonst sofort despawnt.*
 
-Funktioniert in allen Encountern mit Reliktmechanik. So kann man sich bspw. mit Bubble oder Brunnen durch die Totemphase glitchen.
+## Loot
 
-## Loot (wöchentlich)
-
+**Wöchentlich**
 - [Spitzenloot +2] Garantiert: Traumfluch-Rüstung auf Meisterwerk (6 Kerne, 6 Prismen)
 - [Mächtig] Dropchance:Impulsgewehr Premoirgendwas
 - [Mächtig] Legendäre Mond-Drops
 
-Kein Loot-Loop.
+*Kein Loot-Loop.*
+
+**Einmalig**
+- Toter Geist (Tunnels of Despair)
+- Lore
