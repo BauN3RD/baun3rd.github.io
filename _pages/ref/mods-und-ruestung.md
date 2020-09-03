@@ -8,14 +8,6 @@ sidebar:
  toc_sticky: true
 ---
 
-## Beste exotische Rüstung
-
-### Jäger
-
-### Warlock
-
-### Titan
-
 ## Stats und Synergie
 
 ### Wirkung
@@ -70,11 +62,3 @@ Delay und Geschwindigkeit der Gesundheitsregeneration
 ##### Titan Klassenfähigkeit
 
 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00
-
-
-
-## Survivability
-
-## Season 11
-
-## Open World
