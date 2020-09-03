@@ -11,6 +11,5 @@ sidebar:
 **Wöchentlich**
 - [Spitzenloot +2] Garantierter Rüstungsdrop
 
-**Loot-Loop**
-Alle Encounter droppen auch nach Abschluss garantiert legendären Loot
+**Loot-Loop:** Alle Encounter droppen auch nach Abschluss garantiert legendären Loot.
 {: .notice--success}
