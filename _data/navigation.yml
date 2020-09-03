@@ -1,11 +1,11 @@
 main:
 #  - title: "Blog"
 #    url: /blog/
-  - title: "guides/"
-    url: /guides/
+#  - title: "guides/"
+#    url: /guides/
 #  - title: "New Light"
 #    url: /new-light/
-  - title: "ref/"
+  - title: "Ref"
     url: /ref/
 #  - title: "Pages"
 #    url: /page-archive/
