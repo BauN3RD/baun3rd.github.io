@@ -24,7 +24,11 @@ Rüstungstats nach Relevanz geordnet
 Delay und Geschwindigkeit der Gesundheitsregeneration
 
 0 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100
-Stat 1 | Stat 2 | Stat 3 | Stat 4 | Stat 5
+0% | 4% | 8% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
+
+##### Jäger Klassenfähigkeit
+
+0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00 | 0:00
 
 
 
