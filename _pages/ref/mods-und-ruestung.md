@@ -31,10 +31,24 @@ Warlock (E) | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
 
 #### Gegner-Mods
 
-Besessenen-   |
+Besessenen-   | Letzter Wunsch Raid
 --- | ---
 -Bewaffnung | Schwere Munition bei Besessenen-Kill mit Granate
 -Barriere | -20% Schaden nach Besessenen-Schaden
 -Umnutzung | Volle Granate bei Besessenen-Schildbruch
 -Regeneration | Volle Klassenfähigkeit bei Orange-Bar-Kill
 -Spezifikation | Mehr Schaden gegen Besessene (Waffenmod)
+
+Gefallenen-   | Geißel der Vergangenheit Raid
+--- | ---
+-Bewaffnung | Schwere Munition bei Gefallenen-Kill mit Granate
+-Barriere | -20% Schaden nach Gefallenen-Schaden
+-Umnutzung | Volle Granate bei Gefallenen-Schildbruch
+-Regeneration | Volle Klassenfähigkeit bei Orange-Bar-Kill
+
+Schar-   | Krone des Leids und Menagerie
+--- | ---
+-Ausstattung | Schwere Munition bei Schar-Kill mit Granate
+-Barriere | -20% Schaden nach Schar-Schaden
+-Umnutzung | Volle Granate bei Schar-Schildbruch
+-Kräftigung | Volle Klassenfähigkeit bei Orange-Bar-Kill
