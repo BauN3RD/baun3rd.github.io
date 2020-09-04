@@ -31,7 +31,7 @@ Warlock (E) | 0% | 4% | 8% | 12% | 16% | 20% | 24% | 28% | 32% | 36% | 40%
 
 #### Gegner-Mods
 
-**Besessenen-  ** |
+Besessenen-   |
 --- | ---
 -Bewaffnung | Schwere Munition bei Besessenen-Kill mit Granate
 -Barriere | -20% Schaden nach Besessenen-Schaden
