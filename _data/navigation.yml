@@ -73,3 +73,12 @@ sidebar-ref:
         url: /ref/garten-der-erloesung/
       - title: "Letzter Wunsch"
         url: /ref/letzter-wunsch/
+
+
+sidebar-mydocs-dev:
+      - title: "< mydocs / dev"
+        url: /mydocs/development
+      - title: "javascript"
+        children:
+          - title: "sapper"
+          - url: /mydocs/development/js/sapper
