@@ -3,8 +3,8 @@ main:
 #    url: /blog/
 #  - title: "guides/"
 #    url: /guides/
-#  - title: "New Light"
-#    url: /new-light/
+  - title: "baud0wn"
+    url: /baud0wn/
   - title: "Ref"
     url: /ref/
 #  - title: "Pages"
@@ -74,11 +74,16 @@ sidebar-ref:
       - title: "Letzter Wunsch"
         url: /ref/letzter-wunsch/
 
+sidebar-baud0wn:
+    - title: "development"
+      children:
+        - title: "javascript"
+          url: /baud0wn/development/js
 
-sidebar-mydocs-dev:
-      - title: "< mydocs / dev"
-        url: /mydocs/development
+sidebar-baud0wn-dev:
+      - title: "< baud0wn / dev"
+        url: /baud0wn/development
       - title: "javascript"
         children:
           - title: "sapper"
-          - url: /mydocs/development/js/sapper
+          - url: /baud0wn/development/js/sapper

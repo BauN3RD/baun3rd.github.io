@@ -1,6 +1,6 @@
 ---
 title: "Sapper"
-permalink: /mydocs/development/js/sapper
+permalink: /baud0wn/development/js/sapper
 layout: single
 sidebar:
   nav: sidebar-mydocs-dev
