@@ -1,6 +1,6 @@
 ---
 title: "baud0wn"
-permalink: /baud0wn
+permalink: /baud0wn/
 sidebar: 
     nav: sidebar-baud0wn
 ---
