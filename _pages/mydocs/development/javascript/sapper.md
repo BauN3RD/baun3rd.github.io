@@ -1,9 +1,7 @@
 ---
 title: "Sapper"
 permalink: /baud0wn/development/js/sapper
-layout: single
-sidebar:
-  nav: sidebar-mydocs-dev
+layout: wide
 ---
 # Create new App
 Create new app from [sapper template](https://github.com/sveltejs/sapper-template) 
