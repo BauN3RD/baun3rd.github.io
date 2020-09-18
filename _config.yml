@@ -121,6 +121,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "RoD Wiki"
+      icon: ""
+      url: /ref/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:

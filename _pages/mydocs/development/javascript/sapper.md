@@ -1,10 +1,13 @@
 ---
 title: "Sapper"
-permalink: /baud0wn/development/js/sapper
+permalink: /baud0wn/development/js/sapper/
 layout: single
 sidebar:
-	nav: sidebar-baud0wn-dev
+  nav: sidebar-baud0wn-dev
+toc: true
+toc_sticky: true
 ---
+
 # Create new App
 Create new app from [sapper template](https://github.com/sveltejs/sapper-template) 
 ## Init

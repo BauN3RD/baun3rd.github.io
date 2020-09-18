@@ -1,12 +1,10 @@
 main:
 #  - title: "Blog"
 #    url: /blog/
-#  - title: "guides/"
-#    url: /guides/
+  - title: "blog"
+    url: /blog/
   - title: "baud0wn"
     url: /baud0wn/
-  - title: "Ref"
-    url: /ref/
 #  - title: "Pages"
 #    url: /page-archive/
 #  - title: "Collections"
@@ -75,15 +73,39 @@ sidebar-ref:
         url: /ref/letzter-wunsch/
 
 sidebar-baud0wn:
+    - title: "baud0wn"
     - title: "development"
       children:
         - title: "javascript"
-          url: /baud0wn/development/js
+          url: /baud0wn/development/js/
+    - title: "linux"
+      children:
+        - title: "ubuntu"
+          url: /baud0wn/linux/ubuntu/
+        - title: "bash"
+          url: /baud0wn/linux/bash/
 
 sidebar-baud0wn-dev:
-      - title: "< baud0wn / dev"
-        url: /baud0wn/development
+      - title: "< baud0wn/dev"
+        url: /baud0wn/
       - title: "javascript"
         children:
           - title: "sapper"
-          - url: /baud0wn/development/js/sapper
+            url: /baud0wn/development/js/sapper/
+
+sidebar-baud0wn-dev-js:
+      - title: "< baud0wn/dev/js"
+        url: /baud0wn/
+      - title: "javascript"
+        children:
+          - title: "sapper"
+            url: /baud0wn/development/js/sapper/
+
+baud0wn-linux:
+  - title: "< baud0wn/linux"
+    url: /baud0wn/
+  - title: "Ubuntu"
+    url: /baud0wn/linux/ubuntu
+  - title: "bash"
+    url: /baud0wn/linux/bash/
+
